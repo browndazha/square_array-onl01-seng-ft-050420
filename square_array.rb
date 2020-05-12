@@ -1,4 +1,4 @@
 def square_array(array)
-  square_array.each do |,2,3|
+  square_array.each do ||
   # your code here
 end
